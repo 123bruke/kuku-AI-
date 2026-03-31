@@ -6,7 +6,7 @@ It delivers a **3D-inspired, liquid-themed UI experience** with interactive AI f
 ---
 
 ## ✨ Features
-
+   
 - 🤖 AI-powered assistant (Gemini API integration)
 - 🌊 Liquid glass UI design (modern glassmorphism)
 - 🎨 Fully responsive & animated interface
