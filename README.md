@@ -1,4 +1,5 @@
 # 🚀 KUKU AI
+1 year project
 
 <div align="center">
 
